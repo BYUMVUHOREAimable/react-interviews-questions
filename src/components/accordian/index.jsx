@@ -3,7 +3,7 @@
 
 import { useState } from "react";
 import data from "./data";
-import "./styles.css";
+import "./sytle.css"
 
 export default function Accordian() {
   const [selected, setSelected] = useState(null);
